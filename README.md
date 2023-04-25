@@ -1,4 +1,4 @@
-# purchase-insights-pipeline
+# Purchase Insights Pipeline
 End-to-end data pipeline to transform ecommerce purchase data into actionable insights
  
 Reproducible end-to-end data pipeline to transform ecommerce purchase data into actionable insights
